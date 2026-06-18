@@ -102,7 +102,7 @@ Caso utilize o **Google Colab**, essas bibliotecas já estão instaladas por pad
 
 ---
 
-# 🧩 Problema Norteador (PBL)
+# Problema Norteador (PBL)
 
 ## Contexto
 
